@@ -34,7 +34,7 @@ currently_learning:
   - React & Modern Frontend Frameworks
   - Azure Cloud Services
   - Neural Network-based Motion Planning
-fun_fact: "I built a Valentine's website with React 19 + Vite 7 🗿"
+fun_fact: "I love 🗿"
 ```
 
 ---
