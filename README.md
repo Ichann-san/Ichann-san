@@ -1,155 +1,95 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6366f1&height=220&section=header&text=Maulana%20Ikhsan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Competitive%20Programmer%20%7C%20Full-Stack%20Developer%20%7C%20Roboticist&descSize=18&descAlignY=55&descColor=a5b4fc" width="100%"/>
 
-<p>
-  <a href="https://github.com/Ichann-san"><img src="https://komarev.com/ghpvc/?username=Ichann-san&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views"/></a>
-  <a href="https://github.com/Ichann-san?tab=followers"><img src="https://img.shields.io/github/followers/Ichann-san?label=Followers&style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Followers"/></a>
-  <a href="https://github.com/Ichann-san?tab=repositories"><img src="https://img.shields.io/badge/Repos-30+-6366f1?style=for-the-badge&labelColor=1a1b27" alt="Repos"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=05090F&height=190&section=header&text=Maulana%20Ikhsan&fontSize=48&fontColor=33E4FF&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Curious%20Mind&descSize=17&descAlignY=61&descColor=F0F6FC" width="100%" alt="Maulana Ikhsan — Software Engineer, Builder, Curious Mind" />
+
+<a href="https://github.com/Ichann-san/porto"><img src="https://img.shields.io/badge/PORTFOLIO-05090F?style=for-the-badge&logo=vercel&logoColor=33E4FF" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/maulana-ikhsan-565271282/"><img src="https://img.shields.io/badge/LINKEDIN-05090F?style=for-the-badge&logo=linkedin&logoColor=33E4FF" alt="LinkedIn" /></a>
+<a href="mailto:maulana.ikhsan2018@gmail.com"><img src="https://img.shields.io/badge/EMAIL-05090F?style=for-the-badge&logo=gmail&logoColor=33E4FF" alt="Email" /></a>
 
 </div>
 
----
+## Hi, I'm Ichan
 
-## 🧑‍💻 About Me
+I am an Informatics student at **Institut Teknologi Sepuluh Nopember (ITS)** who enjoys turning difficult ideas into software people can explore and use. My work moves between web engineering, algorithms, AI, cloud systems, robotics, and research—but curiosity is the thread connecting all of it.
 
-```yaml
-name: Maulana Ikhsan
-alias: Ichan
-university: Institut Teknologi Sepuluh Nopember (ITS), Surabaya
-major: Informatics / Computer Science
-year: Class of 2024
-internships:
-  - "🤖 ICHIRO — Humanoid Robot Soccer Team (Footstep Planning & Neural Networks)"
-  - "🛩️ Bayucaraka ITS — Aerial Robotics / Drone Division"
-interests:
-  - Competitive Programming
-  - Full-Stack Web Development
-  - Robotics & AI
-  - Cloud Computing (Azure)
-  - Deep Learning
-  - Quantum Computing
-currently_learning:
-  - React & Modern Frontend Frameworks
-  - Azure Cloud Services
-  - Neural Network-based Motion Planning
-fun_fact: "I love 🗿"
+I like projects that make me learn in public: building an interface, questioning an algorithm, documenting what broke, and coming back with a better model of the problem.
+
+```ts
+const ichan = {
+  basedIn: "Surabaya, Indonesia",
+  interestedIn: ["software engineering", "AI/ML", "cloud"],
+  exploring: ["data hiding", "quantum computing", "enterprise architecture"],
+  favoriteLoop: "understand → build → test → explain",
+};
 ```
 
----
+## What I'm exploring
 
-## 🏆 Competitions & Achievements
+- **Reliable software systems** — connecting thoughtful interfaces with maintainable architecture and practical cloud infrastructure.
+- **Machine learning in real products** — from computer-vision classifiers to ONNX inference and browser-based experiences.
+- **Research-minded engineering** — currently developing ICHAN-Secure, a capacity-bounded and integrity-aware approach to medical-image data hiding.
+- **Algorithms and unfamiliar ideas** — competitive programming remains one of the ways I sharpen how I reason, alongside an ongoing interest in quantum computing.
 
-<div align="center">
+## Three projects to start with
 
-| Competition | Result | Category |
-|:---:|:---:|:---:|
-| 🏅 **Srifoton** | **Finalist** — advanced to Final Round (26 prelim + 12 final problems) | Competitive Programming |
-| 🎯 **Gemastik** | Participant — National IT Competition | Competitive Programming |
-| 📊 **CSES Problem Set** | 12+ problems solved (Introductory & Sorting/Searching) | Online Judge |
-
-</div>
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,python,php,java,html,css&perline=8&theme=dark" height="60" />
-</a>
-
-<br/><br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,flask,nodejs&perline=6&theme=dark" height="60" />
-</a>
-
-<br/><br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=azure,vercel,githubactions,postgres,mysql,git,cmake,linux&perline=8&theme=dark" height="60" />
-</a>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🤖 Robot Footstep Planner
-**Neural network-based footstep planning** for the ITS ICHIRO humanoid robot team. Inspired by the Rhoban approach.
-> C++ · CMake · Pathfinding · Energy Optimization
+### Portfolio Website
 
-</td>
-<td width="50%">
+A scroll-driven home for my projects and writing, with a Spline 3D scene, GSAP interactions, responsive mobile visuals, and a centralized content system.
 
-### 🧩 Wordle Solver (CSP)
-**AI-powered Wordle solver** using Constraint Satisfaction Problem algorithms. Full-stack Flask web app with playable game + auto-solver.
-> Python · Flask · CSP Algorithm · Jinja2
+`React 19` `TypeScript` `Vite 7` `GSAP`
+
+[View source](https://github.com/Ichann-san/porto)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-###  Ichantine
-**Animated Valentine's website** with love letters, memory gallery, video/music player, and interactive map. Deployed on Vercel.
-> React 19 · Vite 7 · Tailwind CSS v4 · Vercel
+### Wordle CSP Solver
 
-</td>
-<td width="50%">
+A bilingual Wordle game and solver that models guesses as a constraint-satisfaction problem, filters consistent candidates, and ranks useful next moves.
 
-### ☁️ Azure CRUD API
-**Serverless CRUD API** built with Azure Functions v4. Features PostgreSQL integration and Azure Blob Storage for file management.
-> Node.js · Azure Functions · PostgreSQL · Blob Storage
+`Python` `Flask` `CSP` `Jinja2`
+
+[View source](https://github.com/Riynzar/wordle_solver_web)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🌐 IchanHub
-**Tailwind CSS learning platform** with 70+ chapters across 7 courses (HTML, CSS, JS, CP, Data Science, Quantum Computing, UI/UX). Mobile-first design.
-> HTML5 · Tailwind CSS · JavaScript · Markdown
+### IchanHub
 
-</td>
-<td width="50%">
+A framework-free learning platform covering web development, competitive programming, data science, quantum computing, and UI/UX through structured Markdown lessons.
 
-### 🍜 Kya-Kya Pecinan Booking
-**Culinary booking website** for Surabaya's Chinatown food district. Features reservation system with MySQL backend.
-> PHP · MySQL · JavaScript · Fetch API
+`JavaScript` `Tailwind CSS` `PHP` `Markdown`
 
 </td>
 </tr>
 </table>
-</div>
 
----
+## A few milestones
 
-## 🎯 Current Focus
+- Reached the **Srifoton competitive-programming final**.
+- Contributed to technical work around **ICHIRO**, ITS's humanoid robot soccer team, including footstep-planning and neural-network exploration.
+- Gained aerial-robotics experience with **Bayucaraka ITS**.
+- Built projects across interactive education, computer vision, cloud APIs, data visualization, and research tooling.
 
-```
-� Learning & practicing Deep Learning — neural networks, CNNs, transformers
-⚛️ Exploring Quantum Computing — algorithms & quantum information
-📚 Deepening knowledge in AI, algorithms & cloud computing
-🏆 Preparing for upcoming competitive programming contests
-💻 Building more projects with React & modern frameworks
-```
+## Toolbox
+
+| Area | Tools I reach for |
+| --- | --- |
+| Languages | C++, TypeScript, JavaScript, Python, PHP, Java |
+| Web | React, Vite, Tailwind CSS, GSAP, Flask, FastAPI, Node.js |
+| Data and ML | PyTorch, ONNX, PostgreSQL, MySQL |
+| Cloud and systems | Azure, GitHub Actions, Linux, Git, CMake |
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6366f1&height=120&section=footer" width="100%"/>
+**If something here overlaps with what you're building, come say hi.**
 
-<sub>⚡ Built with passion from Surabaya, Indonesia 🇮🇩</sub>
+<sub>Always learning, occasionally overthinking, usually building.</sub>
 
 </div>
